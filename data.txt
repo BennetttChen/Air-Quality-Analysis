@@ -1,0 +1,4 @@
+Data Source: OpenAQ API
+API Documentation: https://docs.openaq.org/
+API Key: 7899f300f8ce2eb9f4d967317ff77d00304736a1594af5ef7b3f274008421c0a
+Time Period: December 2023
